@@ -1,0 +1,13 @@
+# Site settings
+title: Prova taller
+
+
+author:
+  name: Catalina Amengual Ripoll
+  email: your-email@domain.com
+  
+  
+description: "Catalina's Blog"
+
+# Build settings
+remote_theme: jekyll/minima
